@@ -1,0 +1,5 @@
+{
+  "name": "AI Emotion Detector",
+  "description": "An advanced web application that uses Google's Gemini AI to analyze and detect human emotions from images. Upload a photo and get an instant analysis of the primary emotion displayed.",
+  "requestFramePermissions": []
+}
